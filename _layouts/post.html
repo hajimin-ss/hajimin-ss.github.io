@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<main class="post">
+  <p class="eyebrow">{{ page.categories | first | default: '随笔' }} / {{ page.date | date: '%Y.%m.%d' }}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+  <hr>
+  {{ content }}
+  <p><a class="text-link" href="{{ '/#writing' | relative_url }}">&larr; 返回文章列表</a></p>
+</main>

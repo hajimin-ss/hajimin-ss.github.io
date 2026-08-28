@@ -1,0 +1,10 @@
+title: Hajimin's Notes
+description: hajimin-ss 的个人博客，记录工程、阅读与正在思考的问题。
+url: https://hajimin-ss.github.io
+baseurl: ""
+lang: zh-CN
+markdown: kramdown
+permalink: /posts/:title/
+
+exclude:
+  - README.md
