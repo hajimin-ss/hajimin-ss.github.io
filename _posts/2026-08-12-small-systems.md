@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 我偏爱小而完整的系统
-date: 2026-08-12
-categories: [工程]
+date: 2026-08-28
+categories: [学习日记]
 description: 边界明确、运行可靠、能被一个人完整理解的工具，往往更有生命力。
 ---
 
