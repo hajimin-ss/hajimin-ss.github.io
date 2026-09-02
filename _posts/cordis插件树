@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 我偏爱小而完整的系统
-date: 2026-08-28
+title: cordis插件树
+date: 2026-09-01
 categories: [学习日记]
-description: 边界明确、运行可靠、能被一个人完整理解的工具，往往更有生命力。
+description: cordis内核
 ---
 
 小系统的魅力，在于它的每个边界都摸得着。你能知道一次请求从哪里进来、经过哪些判断、在什么地方离开。
